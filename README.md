@@ -9,7 +9,8 @@ This project contains all my activities related to DATA 1301: intro to data scie
 *Level*: Freshmen (1st year)  
 *Position Title*: Student  
 *Course Webpage*: (https://www.cdslab.org/IDS2024F/)  
-*Photo* : ![Pooja Latest Pic](https://github.com/user-attachments/assets/fb550f0c-745f-40c8-bae1-8f718d4406a6)
+*Photo* : ![image](https://github.com/user-attachments/assets/5d543e0d-f8a2-4977-8b2f-5fb92111130b)
+
 
 
 
