@@ -1,4 +1,4 @@
-1. A scientific inference is made by taking the reality and observational data into consideration. There are three steps to occur to a scientific inference- Caliberation, validation and prediction.  
+1. A scientific inference is made by taking the reality and observational data into consideration. There are three steps to occur to a scientific inference- Caliberation, validation and prediction scenarios.  
 2. The three pillars of science are: Experiment, Theory, computaional+data  
 3.Three major applications of the third pillar- predictive computing, numerical stimulation, machine learning and deep learning.
 4. Two types of logical reasoning refers to deductive and plausible reasoning. deductive= A=> the lights are off; B=> the lights are on (in these statements, the lights are off can be true, but if the statement is false, it simply means that the lights are on)
