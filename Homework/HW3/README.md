@@ -1,5 +1,5 @@
 1. Three pillars of science are experiment, observation and theory.
-2. 
+2. Prediction scenario, Validation scenario, caliberation scenario
 3. The two types of scientific reasoning in science are;  
 a. plausible reasoning: ex. A= I water the plants, B= The appear to thrive (wtaering the plant seems to help them grow better. Therefore, watering plants is likely benificial for their health)  
 b. deductive reasoning: Ex. A= All mammals are warm blooded animals, B= A dolphin is a mammal (In this example, statement A is followed by a true logic in sentence B, which makes both sentences true.)  
