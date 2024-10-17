@@ -17,7 +17,10 @@ b. deductive reasoning: Ex. A= All mammals are warm blooded animals, B= A dolphi
 13. Assuming that statement A is that the burgler is stealing goods and crawling out of the broken window, and statement B being the man is dishonest. We can say that A=>B is true (the man is stealing, hence, he is dishonest) but we cannot say that B=>A is true (it cannot be that the man is dishonest because he stole, a person can be dishonest for good reasons.)  
 14. a. The tiniest unit of information is a bit.
     b. Because, it provides the simplest possible distinction.
-    
+    It wouldn't be easy to tell the coordinates of where you are at without a reference point. In order to find this out we need something external to compare your position and motion against.
+    c. 1. one box, 2 possiblities.
+       2. two boxes, 2 possibilities.
+       3. three boxes, 8 possiblities.    
 
 
 
