@@ -90,4 +90,5 @@ joined to data values at the other end.
 
 28. The graph/ visualization is not labelled well- No header for the graph. the diagonal representation of the movie names makes it ugly. 
 
-29. a. 
+29. a. Increase.
+    b. 3 degrees hotter. 
