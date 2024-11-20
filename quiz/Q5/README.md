@@ -14,7 +14,7 @@
 - Classical/ Bayesian probability.  
 
 6. Is Bayesian Inference a subset of the Frequentist Inference methods? Why?  
-- No, Bayesian Inference is not a subset of frequentist methods. 
+- No, Bayesian Inference is not a subset of frequentist methods. Because, Bayesian traets parameters as random and the latter treats parameters as fixed.  
 
 7. Which inference methodology allows the inclusion of expert knowledge in data analysis and decision-making?  
 - Classical and Bayesian.  
