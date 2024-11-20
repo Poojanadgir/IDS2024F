@@ -73,10 +73,10 @@ Given this information, which one of the following three coordinates are valid a
 
 23. The most effective color pallete is the first one as this one is widely acceptable and the colors are visible from a distance to to their high wavelength.
 
-24. i) San Diego
-  ii) Chicago
-  iii) San Diego
-  iv) San Diego
+24. i) Houston  
+  ii) Chicago  
+  iii) San Diego  
+  iv) San Diego  
 
 25. a. Qualitative color scale
   b. sequential color scale
