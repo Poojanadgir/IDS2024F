@@ -16,12 +16,12 @@
    d.) *accent scales*- an effective tool to highlight specific elements in the data.  
 
 5. Which one(s) of the following statements are valid or invalid. Why?  
-This person is breathing. = This person is inhaling and exhaling.  
-This person is breathing. ≡ This person is inhaling and exhaling.  
-This person is conscious. ≡ This person is breathing.  
-This person is conscious. = This person is breathing.  
-It is rainy. ≡ The sky is cloudy.  
-It is rainy. = The sky is cloudy.  
+This person is breathing. = This person is inhaling and exhaling. *valid*  
+This person is breathing. ≡ This person is inhaling and exhaling. *valid*  
+This person is conscious. ≡ This person is breathing. *Invalid*  
+This person is conscious. = This person is breathing. *Invalid*  
+It is rainy. ≡ The sky is cloudy. *Invalid*  
+It is rainy. = The sky is cloudy. *Invalid*  
 
 6. Name the three pillars of science.  
    The three pillars of science are- Experiment, Theory, Computation.  
@@ -104,6 +104,19 @@ d. We can see a slight rise in temperature anomaly around 1940s, followed by a s
 26. ![image](https://github.com/user-attachments/assets/77fb5403-b5c4-4d17-bfc0-61dbbdc08779)
 
 27. The given symbol,"|" means **given**. so when you say  A|B, it means A given B.
+
+28. The value of the summation is 1665. I used the summation formula to derive this answer.
+
+29. ![image](https://github.com/user-attachments/assets/a49166a3-2fb2-4a27-b020-eef7b3eda77d)
+
+30. ![image](https://github.com/user-attachments/assets/5caf852b-eb43-46e9-b693-e2122c5b6789)
+
+31.![image](https://github.com/user-attachments/assets/ef9e3177-45d1-4897-bc0e-60991156879d)  
+
+32. There are two types of fundamental und=certainties- Epistemic and aleatoric. intrinsic is that data that is in order. Like good, excellent, poor, bad.
+    
+
+
 
 
 
